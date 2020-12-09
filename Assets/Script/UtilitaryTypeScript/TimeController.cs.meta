@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 20a4a40f9c7428048b06624da5615d7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - textDisplay: {instanceID: 0}
+  - skyDay: {fileID: 2100000, guid: d9dca9ae1786c394f9e79c637aa9a7bf, type: 2}
+  - skyNight: {fileID: 2100000, guid: f531e09e2ad2fb440b4eed7605863143, type: 2}
+  - skyAube: {fileID: 2100000, guid: 5d133deeaa66ed445853e946ff25e073, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
